@@ -1,0 +1,2 @@
+# Day 5 — DAX Essentials
+Create a reusable measure layer. Include core KPIs, ratios using DIVIDE, CALCULATE, filter context, variables, time intelligence, YoY, target/achievement or domain-specific measures. Validate at least five important measures independently and explain assumptions.
