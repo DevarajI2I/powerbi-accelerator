@@ -1,0 +1,2 @@
+# Day 3 — Semantic Modelling
+Build a star-schema semantic model. Identify fact grain and dimensions; create one-to-many relationships; configure filter direction; mark the Date table; hide technical keys; create a Measures table; test filter propagation; document relationship rationale and model grain.
