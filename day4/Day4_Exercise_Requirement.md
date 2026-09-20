@@ -1,0 +1,2 @@
+# Day 4 — Visualization & Report UX
+Build a 2-page management report. Use KPI cards, trend/comparison visuals, slicers, meaningful titles, consistent number formats, visual hierarchy, conditional formatting, tooltips/drill-down where appropriate, and complete a 10-point UX review.
